@@ -1,0 +1,16 @@
+Sl No	Issue	In real device	In browserstack
+1	Finding difficulty in locating object	//*[@text='Done']	//XCUIElementTypeOther[@name='done_button']
+		(//*[@text='You']/../following-sibling::*[@class='UIAView']/*)[1]	
+2	Appium desktop is very slow		
+			
+			
+			
+			
+			
+	Module name	Test Cases	
+	smoke	19	
+	P1	30	
+	P1 on board	17	
+	P2	34	
+	Total Test cases	100	
+	Migrated cases to BS	9	

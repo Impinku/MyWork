@@ -1,0 +1,75 @@
+accept */*
+Content-Type   application/json
+Connection   keep-alive
+
+old   MzhjMWFiNTEtY2U5Ny00MzljLTlkMjAtYzQ4ZDcyNGUxZmU1Okc1NlRWWVk3OGJqcWREWU9oNzk5
+New  MzhjMWFiNTEtY2U5Ny00MzljLTlkMjAtYzQ4ZDcyNGUxZmU1Okc1NlRWWVk3OGJqcWREWU9oNzk5
+
+{"accessToken":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyR1VJRCI6ImYwZTZmZmZlLTUwNzgtNDgzOC1hMDliLTExMTRkODQzODc3NCIsInVzZXJfbmFtZSI6InN0YW5mb3JkLnJlbm5lcm9jdDE5QHlvcG1haWwuY29tIiwicm9sZXMiOltdLCJ1c2VydHlwZSI6Imd1ZXN0IiwiaXNUZW1wb3JhcnkiOmZhbHNlLCJ1c2VyaWQiOiJmMGU2ZmZmZS01MDc4LTQ4MzgtYTA5Yi0xMTE0ZDg0Mzg3NzQiLCJjbGllbnRfaWQiOiIzOGMxYWI1MS1jZTk3LTQzOWMtOWQyMC1jNDhkNzI0ZTFmZTUiLCJjb21wYW55aWQiOiJiMzVhMzI1YS0wMzZhLTRhZDQtODgzNi02NDY5MjNlNjAxZGUiLCJhdXRoZW50aWNhdGlvbk1ldGhvZCI6IkVtYWlsTG9naW5BdXRoZW50aWNhdGlvblRva2VuIiwic2NvcGUiOlsicmVhZCIsInRydXN0Iiwid3JpdGUiXSwicGVyc29uSWQiOiIzNDY4Mjg3Ni03MDcyLTQzMDYtYmE3MS0xODQ5MDYyMGZjNzQiLCJpZCI6ImYwZTZmZmZlLTUwNzgtNDgzOC1hMDliLTExMTRkODQzODc3NCIsImV4cCI6MTY3MzE3NDgyOCwidG9rZW5UeXBlIjoidXNlclRva2VuIiwianRpIjoiOWRmMTUzZmMtNjkzMi00NDA5LTk0OTktOTkzZjg3NjcyMGUwIn0.VHuU1eGv2XnHyq-j_jBjxSa-BHBkEiBX4owZ_18uAWYLi_zphdj_F1LWybxc62LqckbGNkjqHGbUqjEgxVBKntCP0zE7QeEZbIZ3HofVPMubejqW_4_EY_g3-M_X3Bs-XVGDCrS8_8dp7gab-Vf0jpuTbukqXn5w7u2coXpgPMGZ5itu1EMZqVf2ta_b2UIoHGngTBWnrgXgK_e85UdQ4eAWL1Tz5psd98Vn-S2BRy-py0leCXpdt0rqzmdbxI1v5aaeur1cGKXud8YgqnqqiiQk8MvW7W9p997r_5KfvgfsVC29-dn5EYXUPvGJBzDY8mttYwscLP8u78Xz3QLgCw","expiresIn":2591999,"refreshToken":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyR1VJRCI6ImYwZTZmZmZlLTUwNzgtNDgzOC1hMDliLTExMTRkODQzODc3NCIsInVzZXJfbmFtZSI6InN0YW5mb3JkLnJlbm5lcm9jdDE5QHlvcG1haWwuY29tIiwicm9sZXMiOltdLCJ1c2VydHlwZSI6Imd1ZXN0IiwiaXNUZW1wb3JhcnkiOmZhbHNlLCJ1c2VyaWQiOiJmMGU2ZmZmZS01MDc4LTQ4MzgtYTA5Yi0xMTE0ZDg0Mzg3NzQiLCJjbGllbnRfaWQiOiIzOGMxYWI1MS1jZTk3LTQzOWMtOWQyMC1jNDhkNzI0ZTFmZTUiLCJjb21wYW55aWQiOiJiMzVhMzI1YS0wMzZhLTRhZDQtODgzNi02NDY5MjNlNjAxZGUiLCJhdXRoZW50aWNhdGlvbk1ldGhvZCI6IkVtYWlsTG9naW5BdXRoZW50aWNhdGlvblRva2VuIiwic2NvcGUiOlsicmVhZCIsInRydXN0Iiwid3JpdGUiXSwiYXRpIjoiOWRmMTUzZmMtNjkzMi00NDA5LTk0OTktOTkzZjg3NjcyMGUwIiwicGVyc29uSWQiOiIzNDY4Mjg3Ni03MDcyLTQzMDYtYmE3MS0xODQ5MDYyMGZjNzQiLCJpZCI6ImYwZTZmZmZlLTUwNzgtNDgzOC1hMDliLTExMTRkODQzODc3NCIsImV4cCI6MTY3NDAzODgyOCwidG9rZW5UeXBlIjoidXNlclRva2VuIiwianRpIjoiZGQ3MTFjZDEtMjNlZS00MmQ2LThhYTctY2NmNzkzMTIxYzdiIn0.cW4U1a_
+
+
+UXOxX-E9FNNQXb7moYvdQYDwBFdqYX_vObXCft9gl1u4ue_9NvxFvL3OfZqKuH3GZxKjVUIx-BW9bhi9K5OcfnNqNK_wHatawsywGdvU8M7kR2zI_Kw-CEEImSSc_UJLseE4xiz-7kNQOlc-jjfzrsB1RKzlkxfQHNWszOh8udDobZyWwGDtR5J4g2akdco1joQDYLNKMVHKPpYrR_1u-VbDuHQna_ufPeAz8wjZSSUNzD9WETwj5G0AyIImOnRrbFx1-yb6VVvvGny-jonXhCQLbJIo4RN4cD3J5Ou7Z4_tFWVR3P5oDjXWVuLgSNxJr0Tl2_nR3WU3dOA","userId":"f0e6fffe-5078-4838-a09b-1114d8438774","tokenType":"bearer","userType":"guest"}
+
+token=Basic NmM3ZjE1ZWUtMWRlYy00NzRmLWFhMmEtZjI1MjY4ODg2ZTdjOkJkNHh4NzVUSFUzdzg3Zmg
+
+String days;
+			if(trOneTap.equals('Yes'))
+				{
+					days=this.noofdays;
+					actions.userComment("Days : "+days)
+		
+				}else {
+					days =  util.readProperty("Voyage_start_date")
+					actions.userComment("Days : "+days)
+				}
+		
+
+if(trOneTap.equals('Yes'))
+				{
+					G_VoyageStartDate=System.getenv("BS_App_id")
+					actions.userComment("G_VoyageStartDate : "+G_VoyageStartDate)
+		
+				}else {
+					G_VoyageStartDate = selectedVariables['G_VoyageStartDate']
+					actions.userComment("G_VoyageStartDate : "+G_VoyageStartDate)
+				}	
+
+
+{\n" +
+				"    \"email\": \"" + P_Pemail + "\",\n" +
+				"    \"firstName\": \"" + P_Pfname + "\",\n" +
+				"    \"lastName\": \"" + P_Plname + "\",\n" +
+				"    \"password\": \"" + P_Ppassword + "\",\n" +
+				"    \"preferredName\": \"" + P_Ppname + "\",\n" +
+				"    \"birthDate\": \"" + P_PDOB + "\",\n" +
+				"    \"userType\": \"guest\",\n" +
+				"    \"enableEmailNewsOffer\": false\n" +
+				"}
+
+request.header("Content-Type", "application/json").header("correlationId", correlationId).header(
+				"Authorization", Hook.token);
+
+request.header("accept", "application/json").header("correlationId", correlationId).header(
+				"Authorization", Hook.token).header("Content-Type", "application/json").header("accept-encoding","gzip, deflate, br");
+
+
+String payload = "{\n" +
+				"  \"birthDate\": \"" + P_PDOB + "\",\n" +
+				"  \"email\": \"" + P_Pemail + "\",\n" +
+				"  \"enableEmailNewsOffer\": false,\n" +
+				"  \"firstName\": \"" + P_Pfname + "\",\n" +
+				"  \"isVerificationRequired\": true,\n" +
+				"    \"preferredName\": \"" + P_Ppname + "\",\n" +
+				"  \"lastName\": \"" + P_Plname + "\",\n" +
+				"  \"password\": \"" + P_Ppassword + "\",\n" +
+				"  \"userType\": \"guest\"\n" +
+				"}";
+5221067
+request.header("Content-type", "application/json").header("correlationId", correlationId)
+				.header("Authorization", Hook.token);
+
+5218281,5218236
+//XCUIElementTypeStaticText[contains(@name,'Event Line')]
+sendEachKeyWithoutLocator(airlineName);
+//XCUIElementTypeStaticText[@name="Arrival time"]/preceding::XCUIElementTypeOther[1]
+5221122,5221035,5221065,5221055,5218234,5221056,2794391,5221067,5221068
